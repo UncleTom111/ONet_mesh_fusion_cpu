@@ -1,6 +1,8 @@
 # ONet_mesh_fusion_cpu
 modified mesh_fusion for Occupancy Networks 
 
+```1_scale.py```, ```2_fusion.py```, ```3_simplify.py``` are changed.
+
 # Tutorial: Install and run *mesh_fusion* on a local PC (tested on Ubuntu20.04)
 modified mesh fusion for personal use
 
