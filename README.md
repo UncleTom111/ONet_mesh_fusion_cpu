@@ -46,7 +46,7 @@ git clone https://github.com/UncleTom111/ONet_mesh_fusion_cpu.git
 ### Build *mesh_fusion*
 #### build pyfusion
 ```
-cd mesh_fusion_cpu
+cd ONet_mesh_fusion_cpu
 cd libfusioncpu
 mkdir build
 cd build
