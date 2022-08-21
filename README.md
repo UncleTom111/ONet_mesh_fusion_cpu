@@ -1,7 +1,7 @@
 # ONet_mesh_fusion_cpu
 modified mesh_fusion for Occupancy Networks 
 
-# Tutorial: Install and run *mesh_fusion* on a local PC (tested on Ubuntu20.0)
+# Tutorial: Install and run *mesh_fusion* on a local PC (tested on Ubuntu20.04)
 modified mesh fusion for personal use
 
 Source: https://github.com/davidstutz/mesh-fusion
